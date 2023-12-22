@@ -1,0 +1,7 @@
+tensorflow
+tensorrt
+tensorflow-gpu  # If you have a GPU and want to use it for acceleration
+keras
+scikit-learn
+numpy
+matplotlib
