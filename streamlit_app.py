@@ -21,7 +21,8 @@ def add_bg_from_local(image_file):
     """,
         unsafe_allow_html=True
     )
-add_bg_from_local('app_background_image.jpg')
+add_bg_from_local('banknote_image_preview.jpg')
+
 # importing model
 MODEL_PATH = 'chosen_CNN_model_for_app.pt'
 # importing class names
